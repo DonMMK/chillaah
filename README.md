@@ -2,8 +2,8 @@
 
 
 ### This is a markdown file.
-### Chiran is a Mechanical Engineer.
-### This is don
+### Chiran is a Mechatronics Engineer.
+### Edited by Don
 <!--
 **chillaah/chillaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
